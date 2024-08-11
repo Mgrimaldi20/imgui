@@ -6,6 +6,7 @@ add_library(imgui STATIC
     "imconfig.h"
     "imgui.cpp"
     "imgui.h"
+    "imgui_demo.cpp"
     "imgui_draw.cpp"
     "imgui_internal.h"
     "imgui_tables.cpp"
